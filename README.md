@@ -1,5 +1,5 @@
 - Hi, I’m Patrícia 😁, welcome to my github! 
-- I have many interests but mostly are about programming. cats and video games. ☺
+- I have many interests but mostly are about programming, cats and video games. ☺
 - I’m currently learning PHP 🐘, unity 🎮 and chinese 🀄! 
 
 <!---
