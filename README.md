@@ -1,6 +1,5 @@
 - Hi, I’m Patrícia 😁, welcome to my github! 
 - I have many interests but mostly are about programming, cats and video games. ☺
-- I’m currently learning PHP 🐘, JAVA ☕, unity 🎮 and chinese 🀄! 
 
 <!---
 PatyTheImp/PatyTheImp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
